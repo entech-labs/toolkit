@@ -1,9 +1,8 @@
+<img src=".github/img/banner.png" alt="EnTech Labs — read-only tools, published openly" width="100%">
+
 # EnTech Labs Toolkit
 
-Small, read-only tools we use when assessing an environment — published openly so the people
-being assessed can read them before running them.
-
-EnTech Labs is the technology practice of [EnTech Engineering, P.C.](https://entech.nyc), an
+EnTech Labs is the technology practice of **[EnTech Engineering, P.C.](https://entech.nyc)** — an
 engineering and construction management firm working across the New York metropolitan region.
 
 ---
@@ -77,5 +76,13 @@ entire reason this repository exists.
 
 ---
 
-<sub>EnTech Engineering, P.C. &middot; 17 State St, 36th Fl, New York, NY 10004 &middot;
-[entech.nyc](https://entech.nyc) &middot; [entechnology.io](https://entechnology.io)</sub>
+<table><tr><td width="200" valign="middle">
+<img src=".github/img/entech-logo-dark.png#gh-light-mode-only" alt="EnTech Engineering" width="170">
+<img src=".github/img/entech-logo-white.png#gh-dark-mode-only" alt="EnTech Engineering" width="170">
+</td><td valign="middle">
+
+**EnTech Engineering, P.C.**
+17 State Street, 36th Floor, New York, NY 10004
+[entech.nyc](https://entech.nyc) · [entechnology.io](https://entechnology.io)
+
+</td></tr></table>
