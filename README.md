@@ -40,8 +40,12 @@ for sizing a tenant-to-tenant migration without anybody counting mailboxes by ha
 Has a `-SelfTest` mode that produces a complete sample report without contacting any tenant or
 requiring a sign-in — so you can see the output before granting any permission.
 
-**[Latest release](../../releases/latest)** &middot;
-**[What it does, in full](m365-discovery/docs/What-the-discovery-script-does.pdf)**
+**⬇️ [Download the script](https://github.com/entech-labs/toolkit/releases/latest/download/EnTech-M365-Discovery.ps1)**
+&middot; **[Step-by-step instructions, with pictures](m365-discovery/)**
+&middot; **[What it does, in full (PDF)](m365-discovery/docs/What-the-discovery-script-does.pdf)**
+
+<sub>New to this? The [step-by-step guide](m365-discovery/) walks through it from downloading the
+file to sending the report, assuming no PowerShell experience.</sub>
 
 ---
 
