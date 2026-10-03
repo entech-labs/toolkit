@@ -1,0 +1,4 @@
+# Release staging and build output - never committed, so the repository always has
+# exactly one copy of each tool and no stale duplicate for a reader to pick up.
+rel/
+*.zip
